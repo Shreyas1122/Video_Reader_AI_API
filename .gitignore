@@ -1,0 +1,20 @@
+# Ignore virtual environments
+virtualenvironment/
+venv/
+
+# Ignore compiled code and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore large libraries or build artifacts
+*.dll
+*.lib
+*.pyd
