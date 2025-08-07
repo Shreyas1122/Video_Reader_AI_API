@@ -16,6 +16,7 @@ click==8.2.1
 colorama==0.4.6
 coloredlogs==15.0.1
 dataclasses-json==0.6.7
+defusedxml==0.7.1
 distro==1.9.0
 dnspython==2.7.0
 durationpy==0.10
@@ -55,7 +56,6 @@ jsonschema==4.25.0
 jsonschema-specifications==2025.4.1
 kubernetes==33.1.0
 langchain==0.3.27
-langchain-chroma==0.2.5
 langchain-community==0.3.27
 langchain-core==0.3.72
 langchain-google-genai==2.1.8
@@ -100,7 +100,6 @@ pydantic_core==2.33.2
 Pygments==2.19.2
 pymongo==4.13.2
 pyparsing==3.2.3
-pypdf==5.9.0
 PyPika==0.48.9
 pyproject_hooks==1.2.0
 pyreadline3==3.5.4
@@ -146,5 +145,6 @@ watchfiles==1.1.0
 websocket-client==1.8.0
 websockets==15.0.1
 yarl==1.20.1
+youtube-transcript-api==1.2.2
 zipp==3.23.0
 zstandard==0.23.0
