@@ -86,6 +86,10 @@ except Exception as e:
     error_throw("No captions available for this video.")
 
 
+@app.get("/")
+def read_root():
+    return {"message": "App is running successfully!"}
+
 
 
 
